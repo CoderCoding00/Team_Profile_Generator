@@ -14,7 +14,7 @@ Javascript, NodeJS, HTML, CSS
 Developer:
 Drum Holliday
 
-Link to Video Demonstration: (copy and paste the link below to watch the video)
+Video Demonstration:
 
 https://user-images.githubusercontent.com/107374333/189823900-9eddb658-1696-4613-af11-edc89e65130a.mp4
 
