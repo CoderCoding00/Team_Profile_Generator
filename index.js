@@ -143,13 +143,6 @@ function askMenuQuestions() {
             case 'Finish':
                 generateHTML();
                 break;
-                // exit (0) means success
-                // exit(0);
-                // break;
-                // default in case nothing is selected and exit(1) means failure
-            // default:
-            //     exit(1);
-            //     break;
         }
     });
 }
